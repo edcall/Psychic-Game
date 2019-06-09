@@ -1,0 +1,13 @@
+#game {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    border: solid lightskyblue;
+    text-align: center;
+    background: darkgray;
+    color: aliceblue;
+    margin-top: 75px;
+    }
+#body {
+    background: lightblue;
+}
+
